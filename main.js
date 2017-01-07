@@ -30,7 +30,7 @@ function newBoard(){
 	tilesFlipped = 0
 	var output = ''
   memoryArray.memoryTileShuffle()
-	for (var i = 0 i < memoryArray.length i++) {
+	for (var i = 0; i < memoryArray.length; i++) {
 		output += '<div class="front" id="tile_'+i+'" onclick="memoryFlipTile(this,\''+memoryArray[i]+'\')"></div>'
   }
 	document.getElementById('memoryBoard').innerHTML = output
