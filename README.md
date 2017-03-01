@@ -12,7 +12,10 @@ The one who completes the memory game in a shorter time will win.
 
 ## Live Version
 
-Where is this deployed online (github pages, heroku etc), give us the link and any access details we need.
+Github pages -
+https://shanwan.github.io/wdi-7-project-1-ANCLMemoryGame/
+
+http://gph.is/2lSRqDQ
 
 ## Built With
 
