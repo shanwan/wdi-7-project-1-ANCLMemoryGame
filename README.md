@@ -15,7 +15,7 @@ The one who completes the memory game in a shorter time will win.
 Github pages -
 https://shanwan.github.io/wdi-7-project-1-ANCLMemoryGame/
  
-![gif](https://giphy.com/gifs/ESo025QiBGb6w)
+![gif](http://i.giphy.com/ESo025QiBGb6w.gif)
 
 ## Built With
 
